@@ -9,6 +9,13 @@ links:
   - title: "Quicksort on Wikipedia"
     url: "https://en.wikipedia.org/wiki/Quicksort"
 
+contributions:
+  - title: "Quicksort Visualization in p5.js (with Sound)"
+    author:
+      name: "Max Reichmann"
+      url: "https://github.com/Reichmann-M"
+    url: "https://reichmann-m.github.io/vis_sorts_eng"
+
 videos:
   - title: "15 Sorting Algorithms in 6 Minutes"
     video_id: "kPRA0W1kECg"
